@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .navbar-nav {
+            margin-left: 800px;
+        }
+
+        .header {
+            font-size: x-large;
+        }
+
+        .footer {
+            margin-top: -23px;
+            background-image: url(/Images/footer_bg.jpg);
+            height: 200px;
+            color: black;
+            
+        }
+
+        .button {
+            background-color: none;
+            border: none;
+            text-align: end;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary" style="height:90px;">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarColor01">
+                    <ul class="navbar-nav">
+                        <li>
+                            <img src="~/Images/Auction_logo.png" style="height:100px; width:100px; top:5px; left: 10px; position: fixed;" />
+
+                        </li>
+                        <li class="nav-item">
+                            <a style="text-decoration:none;font-size:1.5em;color:white;" href="/Home/Index">
+                                Home
+                                <span class="visually-hidden">(current)</span>
+                            </a>
+                        </li>&emsp;&emsp;
+                        <li class="nav-item">
+                            <a style="text-decoration:none;font-size:1.5em;color:white;" href="/Extra/Contact">Contact</a>
+                        </li>&emsp;&emsp;
+                        <li class="nav-item">
+                            <a style="text-decoration:none;font-size:1.5em;color:white;" href="/Home/Index">LogOut</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <br />
+    <div style="margin-top:-23px;">
+        @RenderBody()
+    </div>
+    @RenderSection("Scripts", required: false);
+    <br />
+    <div class="footer">
+        <p align="center">
+            <br />
+            NO NEED TO RUN, BIDDING IS FUN !!<br />Just Bid It !!<br /><br />
+            &copy;2021,Auction House&emsp;&emsp;&emsp;
+            <a href="/Extra/Contact">Contact Us</a>&emsp;&emsp;&emsp;
+            <a href="/Extra/Cookie">Cookie Policy</a>&emsp;&emsp;&emsp;
+            <a href="/Extra/Terms">Terms & Conditions</a>&emsp;&emsp;&emsp;
+            <img src="~/Images/facebook.png" style="top:530px; height:40px; width:40px;" />&emsp;&emsp;&emsp;
+            <img src="~/Images/instagram.png" style="top:530px; height:40px; width:40px;" />
+        </p>
+
+    </div>
+</body>
+</html>

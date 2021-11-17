@@ -1,0 +1,59 @@
+﻿@model OnlineAuctionMVC.Models.Register
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "Login";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+                alert("@ViewBag.Message");
+    </script>
+}
+<div style="background-image: url(/Images/request_bg1.jpg);background-size:cover; ">
+    <center>
+        @if (@HttpContextAccessor.HttpContext.Session.GetString("login") == "3")
+        {
+            <h1>Bidder Login</h1>
+        }
+        @if (@HttpContextAccessor.HttpContext.Session.GetString("login") == "2")
+        {
+            <h1>Seller Login</h1>
+        }
+        @if (@HttpContextAccessor.HttpContext.Session.GetString("login") == "1")
+        {
+            <h1>Admin Login</h1>
+        }</center>
+        <br /><br />
+        <div class="row" style="margin-left:35%;">
+            <div class="col-md-4">
+                    <form asp-action="Login" style="width:400px;">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label"></label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <center><input type="submit" value="Login" class="btn btn-primary" /><br /><br /></center>
+                            @if (@HttpContextAccessor.HttpContext.Session.GetString("login") == "3" || @HttpContextAccessor.HttpContext.Session.GetString("login") == "2")
+                            {
+                        <center><a asp-action="Create">New User ?</a></center>
+                            }
+                        </div>
+                    </form>
+            </div>
+        </div>
+        <br />
+        <center><a href='@ViewBag.index'>Back</a></center>
+        <br /><br />
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+</div>
+

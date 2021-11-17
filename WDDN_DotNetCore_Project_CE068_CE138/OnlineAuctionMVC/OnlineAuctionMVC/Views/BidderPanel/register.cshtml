@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "register";
+}
+
+
+<div style="background-image: url(/Images/request_bg1.jpg); height: 550px; background-size: cover; ">
+    <center><br/><br/>
+        <h3>Register Here For Bid-Participation</h3>
+        <br /><br/><br/>
+        <form asp-action="set" style="width:50%;height:200px;">
+            <table style=" width: 70%; height:200px;" class="table table-hover">
+                <tr class="table-light">
+                    <td scope="row">Name</td>&emsp;
+                    <td scope="row"><input type="text" size="30" name="Name" required /></td>
+                </tr>
+                <tr class="table-light">
+                    <td scope="row">Email</td>&emsp;
+                    <td scope="row"><input type="Email" size="30" name="Email" required /></td>
+                </tr>
+                <tr class="table-light">
+                    <td colspan="2" scope="row"><input type="hidden" value="@HttpContextAccessor.HttpContext.Session.GetInt32("CId")" name="Cid" /></td>
+                  
+                </tr>
+            </table>
+            <button name="button" value="bidRegister">Register</button>
+        </form>
+    </center>
+    <br/><br/>
+</div>

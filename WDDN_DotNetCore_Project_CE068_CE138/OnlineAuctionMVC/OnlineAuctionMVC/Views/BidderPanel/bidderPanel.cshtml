@@ -1,0 +1,42 @@
+﻿@model IEnumerable<OnlineAuctionMVC.Models.Category>
+@{
+    ViewData["Title"] = "bidderPanel";
+}
+
+
+
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover; ">
+    <center>
+        <h1>Categories</h1>
+        <br /><br />
+        <table style="width:40%;" class="table table-hover">
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">Name</th>
+                <th scope="col">Action</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+
+                <form asp-action="viewProducts">
+                <tr class="table-light">
+                    <td scope="row">
+                        <input type="hidden" value="@item.CId" name="Cid" />
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td scope="row">
+                        <button name="button" value="ViewProducts">ViewProducts</button>
+                    </td>
+                </tr>
+                </form>
+            }
+
+        </table>
+        <br/>
+        <a href='@ViewBag.login'>Back</a>
+        <br/><br/>
+    </center>
+</div>

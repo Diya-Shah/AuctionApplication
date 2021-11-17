@@ -1,0 +1,54 @@
+﻿@model OnlineAuctionMVC.Models.ViewModel
+
+
+@{
+    ViewData["Title"] = "Result";
+}
+
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover;">
+    <center>
+        <h1>My Bids</h1>
+        <br />
+        <table style="width:80%;" class="table table-hover">
+            <thread>
+                <tr>
+                    <th scope="col" colspan="4">Product Details</th>
+                    <th scope="col" colspan="2">Bidding Details</th>
+
+                </tr>
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">ProductName</th>
+                    <th scope="col">ProductDetails</th>
+                    <th scope="col">Minimum Bid-Price</th>
+                    <th scope="col">BidderName</th>
+                    <th scope="col">BidAmount</th>
+                </tr>
+
+            </thread>
+            <tbody>
+                @foreach (var item in @Model.Results)
+                {
+
+                    <tr class="table-light">
+                        @foreach (var item1 in Model.Products.Where(x => x.PId == item.Pid))
+                        {
+                            <td scope="row"> <img src="~/Images/@item1.Image" asp-append-version="true" width="200" height="200" /></td>
+                            <td scope="row">@item1.Name</td>
+                            <td scope="row">@item1.Details</td>
+                            <td scope="row">@item1.Bid_price</td>
+
+                        }
+                        <td scope="row">@item.bidderName</td>
+                        <td scope="row">@item.bidAmount</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        <br/>
+        <a href='@ViewBag.index'>Home</a>
+        <br /><br />
+
+    </center>
+</div>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<OnlineAuctionMVC.Models.Product>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover; ">
+    <center>
+    <h1>My Sold Products</h1></center>
+    <br/><br/>
+    <div>
+        <center>
+            <table style="width:90%;" class="table table-hover">
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Details</th>
+                    <th scope="col">CID</th>
+                    <th scope="col">BidPrice</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Time</th>
+
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr class="table-light">
+                        <td scope="row">
+                            <img src="~/Images/@item.Image" asp-append-version="true" width="200" height="200" />
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.Details)
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.CId)
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.Bid_price)
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.date)
+                        </td>
+                        <td scope="row">
+                            @Html.DisplayFor(modelItem => item.time)
+                        </td>
+
+                    </tr>
+
+                }
+
+            </table>
+
+            <br />
+            <a asp-action="sellerpanel">Back</a>
+            <br /><br />
+        </center>
+    </div>
+
+</div>

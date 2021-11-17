@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+<script>
+    function function1() {
+        document.getElementById("msg").innerHTML = "Thankyou For Your Response ! Your Query/Suggestion has been considered !";
+    }
+</script>
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover;">
+    <center>
+        <h1>Contact Us</h1>
+        <br /><br />
+        <h4 id="msg">Enter Your Query/Suggestions !!</h4>
+        <br/>
+        <form>
+            <table style="width:60%;" class="table table-hover">
+                <tr class="table-light">
+                    <td scope="row">Name</td>
+                    <td scope="row"><input type="text" name="name" /></td>
+                </tr>
+                <tr class="table-light">
+                    <td scope="row">Email</td>
+                    <td scope="row"><input type="email" name="email"  /></td>
+                </tr>
+                <tr class="table-light">
+                    <td scope="row">Query/Suggestion</td>
+                    <td scope="row"><textarea name="query" > </textarea></td>
+                </tr>
+            </table>
+            <input type="submit" name="submit" value="Submit" onclick="function1();"/>
+        </form>
+        <br/><br/><br/>
+        <a href="/Home/Index">Home</a>
+        <br/><br/>
+    </center>
+</div>

@@ -1,0 +1,81 @@
+﻿@model IEnumerable<OnlineAuctionMVC.Models.Product>
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "requestedProducts";
+}
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+                alert("@ViewBag.Message");
+    </script>
+}
+
+
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover; ">
+    <center>
+        <h1>RequestedProducts</h1>
+        <br /><br />
+        <table style="width:90%;" class="table table-hover">
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Details</th>
+                <th scope="col">CID</th>
+                <th scope="col">BidPrice</th>
+                <th scope="col">Date</th>
+                <th scope="col">Time</th>
+                <th scope="col">Action</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+
+                <form>
+                <tr class="table-light">
+                    <td scope="row">
+                        <input type="hidden" value="@item.PId" name="Pid" asp-action="set" />
+                    </td>
+                    <td scope="row">
+                        <img src="~/Images/@item.Image" asp-append-version="true" width="200" height="200" />
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.Details)
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.CId)
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.Bid_price)
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.date)
+                    </td>
+                    <td scope="row">
+                        @Html.DisplayFor(modelItem => item.time)
+                    </td>
+                    <td scope="row">
+                        <button name="button" value="Accept" asp-action="set">Accept</button>
+                        <button name="button" value="Decline" asp-action="set">Decline</button>
+
+                        <!--<a asp-action="requestedProducts" asp-route-id="item.PId/y">Accept</a>
+                    <a asp-action="requestedProducts" asp-route-id="item.PId/n">Decline</a>-->
+                    </td>
+                </tr>
+                </form>
+            }
+
+        </table>
+        <br/>
+        <a asp-action="adminPanel">Back to Panel</a>
+        <br/><br/>
+    </center>
+</div>
+
+
+

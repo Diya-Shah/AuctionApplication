@@ -1,0 +1,64 @@
+﻿@model OnlineAuctionMVC.Models.Register
+
+@{
+    ViewData["Title"] = "Create";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+                alert("@ViewBag.Message");
+    </script>
+}
+<div  style="background-image: url(/Images/request_bg1.jpg);background-size:cover;">
+    <center>
+        <h1>Register</h1>
+        <br />
+    </center>
+            <div class="row"  style="margin-left:35%">
+                <div class="col-md-4">
+                    <form asp-action="Create" style="width:400px;">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label"></label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CPassword" class="control-label"></label>
+                            <input asp-for="CPassword" class="form-control" />
+                            <span asp-validation-for="CPassword" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Gender" class="control-label"></label>
+                            <input asp-for="Gender" class="form-control" />
+                            <span asp-validation-for="Gender" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Contact" class="control-label"></label>
+                            <input asp-for="Contact" class="form-control" />
+                            <span asp-validation-for="Contact" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <center>
+                                <input type="submit" value="Register" class="btn btn-primary" /><br /><br />
+                                <a asp-action="Login">Already Registered ?</a>
+                            </center>
+                        </div>
+                    </form>
+                </div>
+    </div>
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+    <br /><br />
+</div>

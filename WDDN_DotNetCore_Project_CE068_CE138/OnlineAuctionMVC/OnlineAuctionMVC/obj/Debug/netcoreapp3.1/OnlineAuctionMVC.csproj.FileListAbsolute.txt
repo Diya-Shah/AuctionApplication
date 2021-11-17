@@ -1,0 +1,510 @@
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.exe
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.deps.json
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.json
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.dev.json
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.AssemblyReference.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfoInputs.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfo.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CoreCompileInputs.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.Manifest.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.xml
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineAuctionMVC.styles.css
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.input.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.output.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorCoreGenerate.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CopyComplete
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.genruntimeconfig.cache
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Create.cshtml.g.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\machc\source\repos\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Login.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.json
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.exe
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.deps.json
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.json
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.dev.json
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.AssemblyReference.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfoInputs.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfo.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CoreCompileInputs.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.MvcApplicationPartsAssemblyInfo.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.Manifest.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.xml
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineAuctionMVC.styles.css
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.input.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.output.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorCoreGenerate.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\home\Index.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Create.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Login.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CopyComplete
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.genruntimeconfig.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.exe
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.deps.json
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.json
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.runtimeconfig.dev.json
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.AssemblyReference.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfoInputs.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.AssemblyInfo.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CoreCompileInputs.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorAssemblyInfo.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.Manifest.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\staticwebassets\OnlineAuctionMVC.StaticWebAssets.xml
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineAuctionMVC.styles.css
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.input.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.TagHelpers.output.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorCoreGenerate.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\home\Index.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Create.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\register\Login.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cache
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.RazorTargetAssemblyInfo.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.Views.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.csproj.CopyComplete
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.pdb
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\OnlineAuctionMVC.genruntimeconfig.cache
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\SellerPanel.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\Create.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\adminPanel.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\requestedProducts.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\adminPanel.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\requestedProducts.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\Create.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\SellerPanel.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\bidderPanel.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\viewProducts.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\register.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\bidderPanel.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\register.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\viewProducts.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\joinsession.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\joinsession.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\Result.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\BidderPanel\Result.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\Sold.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewResults.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewSellers.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewCategories.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Contact.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Cookie.cshtml.g.cs
+C:\Palna\SEM-5\WDDN\MVC PROJECT\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Terms.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewCategories.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewResults.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\AdminPanel\viewSellers.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Contact.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Cookie.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\Extra\Terms.cshtml.g.cs
+F:\STUDY\3rdYear\OnlineAuctionMVC\OnlineAuctionMVC\obj\Debug\netcoreapp3.1\Razor\Views\SellerPanel\Sold.cshtml.g.cs

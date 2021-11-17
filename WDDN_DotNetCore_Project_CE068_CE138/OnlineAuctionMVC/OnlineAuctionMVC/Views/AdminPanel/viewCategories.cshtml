@@ -1,0 +1,69 @@
+﻿@model OnlineAuctionMVC.Models.ViewModel
+@{
+    ViewData["Title"] = "viewCategories";
+}
+
+<div style="background-image: url(/Images/request_bg1.jpg); background-size: cover;">
+    <center><h1>Categories & Products</h1></center>
+    <br /><br />
+    <div>
+        <center>
+            <h4>Categories</h4>
+            <table style="width:50%;" class="table table-hover">
+                <thread>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Name</th>
+                    </tr>
+                </thread>
+                <tbody>
+                    @foreach (var item in Model.AdminCategory)
+                    {
+                        <tr class="table-light">
+                            <td scope="row">@item.CId</td>
+                            <td>@item.Name.</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </center>
+    </div>
+    <br />
+    <br />
+    <div>
+        <center>
+            <h4>Products</h4>
+            <table style="width:90%;" class="table table-hover">
+                <thread>
+                    <tr>
+                        <th scope="col">Image</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Details</th>
+                        <th scope="col">Category-Id</th>
+                        <th scope="col">Minimum Bid-Price</th>
+                        <th scope="col">Date</th>
+                        <th scope="col">Time</th>
+                    </tr>
+                </thread>
+                <tbody>
+                    @foreach (var item in Model.AdminProduct)
+                    {
+
+                        <tr class="table-light">
+                            <td scope="row"> <img src="~/Images/@item.Image" asp-append-version="true" width="200" height="200" /></td>
+                            <td>@item.Name</td>
+                            <td>@item.Details</td>
+                            <td>@item.CId</td>
+                            <td>@item.Bid_price</td>
+                            <td>@item.date</td>
+                            <td>@item.time</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </center>
+    </div>
+    <br/>
+    <center> <a asp-action="adminPanel">Back to Panel</a></center>
+    <br/><br/>
+</div>
